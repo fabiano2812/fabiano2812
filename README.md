@@ -2,7 +2,7 @@
 
 👨‍💻 Trabalho com Desenvolvimento full Stack<br>
 💻 Estudando: Angular / Java <br>
-Estudante de Análise e Desenvolvimento de Sistemas, Sou formado em Ciencias da Computação, fazendo pós em Desenvolvimento web Full Stack atualmente focado em aprofundar meu conhecimento em Angular e Java, habilidade também com JavaScript, Possuo também noções em banco de dados SQL.
+Estudante de Análise e Desenvolvimento de Sistemas, Sou formado em Ciencia da Computaçã e fazendo pós em Desenvolvimento web Full Stack, atualmente focado em aprofundar meu conhecimento em Angular e Java, habilidade também com JavaScript, Possuo também noções em banco de dados SQL.
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
